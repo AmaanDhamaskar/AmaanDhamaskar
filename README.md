@@ -1,4 +1,4 @@
-Hi I’m AmaanDhamaskar,
+Hi I’m Amaan Dhamaskar,
 I am a Second Year IT student from India.
 I am currently keen on learning Web & App Development, Solidity And AI/ML.
 I am also a Web3 enthusiast.

@@ -1,8 +1,8 @@
 Hi I’m Amaan Dhamaskar,
 I am a Second Year IT student from India.
 I am currently keen on learning Web & App Development, Solidity And AI/ML.
-I am also a Web3 enthusiast.
-I am also a part GDSC VIT Mumbai as well as Computer Society Of India VIT Mumbai Chapter.
+I am a Web3 enthusiast.
+I am a part GDSC VIT Mumbai as well as Computer Society Of India VIT Mumbai Chapter.
 You can view my Google Developer Profile at : g.dev/AmaanDhamaskar
 
 <!---

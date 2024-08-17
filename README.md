@@ -1,9 +1,4 @@
-Hi I’m Amaan Dhamaskar,
-I am a Second Year IT student from India.
-I am currently keen on learning Web & App Development, Solidity And AI/ML.
-I am a Web3 enthusiast.
-I am a part GDSC VIT Mumbai as well as Computer Society Of India VIT Mumbai Chapter.
-You can view my Google Developer Profile at : g.dev/AmaanDhamaskar
+Hello! My name is Amaan Dhamaskar. I am a final year Information Technology student at Vidyalankar Institute of Technology and like solving problems and building products that increase equitable access to knowledge and opportunities
 
 <!---
 AmaanDhamaskar/AmaanDhamaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

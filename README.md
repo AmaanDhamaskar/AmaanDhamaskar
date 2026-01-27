@@ -1,4 +1,9 @@
-Hello! My name is Amaan Dhamaskar. I am a final year Information Technology student at Vidyalankar Institute of Technology and like solving problems and building products that increase equitable access to knowledge and opportunities
+Hello! I'm Amaan. I am a Master's student in the Department of Computer Science at Yale University.
+
+I'm interested in applying AI capabilities to downstream tasks in the fields of education, healthcare, content generation and mindfullness. My research interests lie in the field of LLM benchmarking & Alignment with human values, with a focus on advancing model capabilities for complex reasoning, long horizon workflows and cognition.
+
+Feel free to reach out to me at: amaan [dot] dhamaskar [at] gmail [dot] com.
+I'm excited to share conversations around AI alignment, safety, policy, art, music, Formula 1 and everything in between :)
 
 <!---
 AmaanDhamaskar/AmaanDhamaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
